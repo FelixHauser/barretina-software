@@ -1,0 +1,14 @@
+title: Barretina Software
+description: Practical tools built for real needs
+url: https://barretina-software.de
+author: Felix Hauser
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
