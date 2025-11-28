@@ -5,7 +5,7 @@
   status: published
 
 - name: Pure NMR
-  icon: /PureNMR/icon.png
+  icon: /purenmr/icon.png
   description: NMR impurity reference database with chemical shift data for common laboratory impurities and residual solvents across multiple deuterated solvents.
   url: /purenmr
   status: published
